@@ -1,10 +1,8 @@
 ######################################################
 
-#
-
 # Script for turning vertex into face
 
-# Chris Leggett
+# by Chris Leggett
 
 # Please credit author above and use for free 
 
@@ -12,13 +10,17 @@
 
 ######################################################
 
-# This script generates polygons. It is quite useless
+# This script when complete is intended to to allow
 
-# since you can do polygons with ADD->Mesh->Circle
+# user via a single step operation to convert 
 
-# but it is a nice complete script example, and the
+# a vertex point on a mesh into a face of a certain
 
-# polygons are 'filled'
+# specified parameter.  This face will come to 
+
+# occupy the same mesh as the upon which this script
+
+# is used upon.
 
 ######################################################
 
