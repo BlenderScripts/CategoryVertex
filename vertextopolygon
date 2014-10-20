@@ -1,0 +1,31 @@
+######################################################
+
+#
+
+# Script for turning vertex into face
+
+# Chris Leggett
+
+# Please credit author above and use for free 
+
+# Corrections and suggestions welcome
+
+######################################################
+
+# This script generates polygons. It is quite useless
+
+# since you can do polygons with ADD->Mesh->Circle
+
+# but it is a nice complete script example, and the
+
+# polygons are 'filled'
+
+######################################################
+
+ 
+
+######################################################
+
+# Importing modules
+
+######################################################
